@@ -2,6 +2,9 @@
 
 Run a simulated Universal Robots UR3 inside a Docker container, access it via `ur_ros_driver` and control it via MoveIt2
 
+<p align="center">
+  <img src="running_demo.gif" alt="running_demo" />
+</p>
 ## Getting started
 
 ### **Prerequisites**
