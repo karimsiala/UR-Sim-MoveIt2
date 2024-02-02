@@ -17,7 +17,7 @@ Ensure your system is prepared with:
 - **Docker**
   - [Install Docker Engine](https://docs.docker.com/engine/install/)
 - **Universal Robots ROS2 Driver**
-  - [Install ros_humble_ur from binary packages](https://moveit.ros.org/install-moveit2/binary/)
+  - [Install ros_humble_ur from binary packages](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/tree/humble)
   - Make sure to install from the humble branch i.e. `sudo apt-get install ros-humble-ur`
 
 ### **Installation and Execution**
