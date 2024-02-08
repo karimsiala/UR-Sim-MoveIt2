@@ -74,3 +74,8 @@ ros2 launch ur_moveit_config ur_moveit.launch.py ur_type:=ur3 launch_rviz:=true
 ## Support
 
 Contact me if you get any problems while running it.
+
+## Disclaimer
+_This project demonstrates how to use UR Sim by Universal Robots with MoveIt2 for education purposes. All copyrights, trademarks, and intellectual property rights belong to their respective owners. 
+No infringement is intended. Please ensure compliance with all applicable licensing agreements and terms of use._
+
