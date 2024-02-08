@@ -1,6 +1,6 @@
 # UR Sim + MoveIt2
 
-Run a simulated Universal Robots UR3 inside a Docker container, access it via `ur_ros_driver` and control it via MoveIt2
+Simplified instruction for people starting out with ROS 2 to run a simulated Universal Robots UR3 inside a Docker container, access it through the browser and control it through  `ur_ros_driver` with MoveIt2.
 
 ![running demo](running_demo.gif)
 
@@ -74,6 +74,9 @@ ros2 launch ur_moveit_config ur_moveit.launch.py ur_type:=ur3 launch_rviz:=true
 ## Support
 
 Contact me if you get any problems while running it.
+
+## Reference
+These instructions were based on the official URSim Docker [Installation Guide](https://docs.ros.org/en/ros2_packages/rolling/api/ur_robot_driver/installation/ursim_docker.html).
 
 ## Disclaimer
 _This project demonstrates how to use UR Sim by Universal Robots with MoveIt2 for education purposes. All copyrights, trademarks, and intellectual property rights belong to their respective owners. 
