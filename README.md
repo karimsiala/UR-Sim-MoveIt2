@@ -35,7 +35,7 @@ git clone https://gitlab.wmaut.de/k.siala/ur-sim-moveit2.git
 Navigate to the script directory and execute the URSim startup script:
 
 ```bash
-cd ur-sim-moveit2/script
+cd ur-sim-moveit2/scripts
 ./start_ursim.sh
 ```
 
